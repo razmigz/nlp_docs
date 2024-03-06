@@ -1,0 +1,7 @@
+T2	patient_gender 49 55	female
+T4	clipping 1232 1240	clipping
+T1	patient_age 37 39	12
+T3	anatomical_location 1274 1300	right pterional craniotomy
+T6	aneurysm 632 640	aneurysm
+E2	aneurysm:T6 id:T5
+T5	aneurysm1 632 640	aneurysm

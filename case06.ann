@@ -1,0 +1,7 @@
+T1	patient_age 13 15	68
+T2	patient_gender 25 29	male
+T3	aneurysm 927 935	aneurysm
+E1	aneurysm:T3 id:T5
+T4	anatomical_location 1954 1974	left middle cerebral
+T5	aneurysm1 927 935	aneurysm
+T6	clipping 2424 2432	clipping

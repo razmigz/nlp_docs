@@ -1,0 +1,9 @@
+T1	patient_age 13 15	60
+T2	patient_gender 25 31	female
+T3	date 152 170	27 September 2021,
+T4	anatomical_location 655 733	ight lateral frontal lobe and the semi oval center of the double basal ganglia
+T5	aneurysm 1098 1106	aneurysm
+E1	aneurysm:T5 id:T6
+T6	aneurysm1 1098 1106	aneurysm
+T7	anatomical_location 1563 1584	right middle cerebral
+T8	clipping 2697 2705	clipping

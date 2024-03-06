@@ -1,0 +1,4 @@
+T1	patient_age 15 17	55
+T2	patient_gender 42 48	female
+T3	aneurysm 923 932	aneurysms
+E1	aneurysm:T3 

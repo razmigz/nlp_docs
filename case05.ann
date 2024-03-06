@@ -1,0 +1,9 @@
+T2	patient_gender 25 31	female
+T3	clipping 2071 2112	one-stage aneurysm clipping was performed
+T4	partial_occlusion 2428 2473	cclusion of the left internal carotid artery,
+T5	patient_age 13 15	54
+T1	aneurysm 234 242	aneurysm
+E1	aneurysm:T1 id:T6
+T6	aneurysm1 234 242	aneurysm
+T7	anatomical_location 433 478	right internal carotid artery traffic segment
+T8	partial_occlusion 836 845	occlusion

@@ -1,0 +1,8 @@
+T1	patient_age 15 17	41
+T2	patient_gender 25 29	male
+T3	anatomical_location 673 731	enhancing mass in the anterior right cerebellar hemisphere
+T4	aneurysm 2571 2579	aneurysm
+E1	aneurysm:T4 id:T5
+T5	aneurysm1 2571 2579	aneurysm
+T6	rupture 3076 3085	rerupture
+T7	decrease 2599 2656	very poor neurological exam, extending in all extremities

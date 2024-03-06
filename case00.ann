@@ -1,0 +1,9 @@
+T3	patient_gender 41 44	man
+T4	aneurysm 424 432	aneurysm
+E1	aneurysm:T4 id:T7
+T2	complete_occlusion 3623 3641	aneurysm occlusion
+T5	clipping 3525 3529	clip
+T6	clipping 3890 3927	MCA aneurysm was clipped successfully
+T7	aneurysm1 424 432	aneurysm
+T8	patient_age 29 31	46
+T1	clipping 2651 2655	clip

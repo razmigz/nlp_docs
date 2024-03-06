@@ -1,0 +1,10 @@
+T1	patient_age 14 16	75
+T2	patient_gender 26 31	woman
+T3	aneurysm 208 216	aneurysm
+E1	aneurysm:T3 id:T4
+T4	aneurysm1 208 216	aneurysm
+T5	anatomical_location 191 207	abdominal aortic
+T6	clipping 1640 1648	clipping
+T7	rupture 1791 1798	rupture
+T8	clipping 2052 2060	clipping
+T9	decrease 2207 2230	Rankin Scale score of 4

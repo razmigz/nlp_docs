@@ -1,0 +1,8 @@
+T2	patient_gender 49 54	woman
+T1	patient_age 13 15	61
+T5	aneurysm 1307 1315	aneurysm
+E3	aneurysm:T5 id:T3
+T3	aneurysm1 1307 1315	aneurysm
+T6	coiling 1583 1587	coil
+T4	coiling 2278 2285	coiling
+T7	residual_aneurysm 2673 2690	residual aneurysm

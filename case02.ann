@@ -1,0 +1,10 @@
+T1	patient_age 29 31	59
+T2	patient_gender 11 13	Mr
+T3	clipping 1150 1158	clipping
+T5	saccular 1250 1258	saccular
+T4	aneurysm1 486 494	aneurysm
+T7	aneurysm2 1068 1076	aneurysm
+T6	aneurysm 486 494	aneurysm
+E1	aneurysm:T6 id:T4
+T8	aneurysm 1068 1076	aneurysm
+E2	aneurysm:T8 id:T7

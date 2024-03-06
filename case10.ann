@@ -1,0 +1,11 @@
+T1	patient_age 15 17	64
+T2	patient_gender 27 32	woman
+T3	rupture 262 300	ruptured anterior communicating artery
+T4	aneurysm 309 317	aneurysm
+E1	aneurysm:T4 id:T5
+T5	aneurysm1 309 317	aneurysm
+T6	coiling 452 456	Coil
+T7	anatomical_location 1337 1425	hemorrhage in the subarachnoid space, right frontal horn, and bilateral occipital horns.
+T8	anatomical_location 1614 1719	cerebral infarction in the left occipital lobe, a blood clot in the temporal horn, and a reduction of SAH
+T9	anatomical_location 1999 2092	clot in the right temporal horn had migrated into the 3 V, accompanied by mild hydrocephalus;
+T10	anatomical_location 3199 3279	nonrecurrence of hydrocephalus and an old infarction in the left occipital lobe.
